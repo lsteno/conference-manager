@@ -109,5 +109,5 @@ Soluzione proposta non valida
 - The program assumes `MAXC` is defined in `programma.h` and `articolo.h`.
 
 ## Authors
-Developed by [Your Name].
+Developed by lsteno.
 
