@@ -1,4 +1,3 @@
-# conference-manager
 # Conference Scheduling Program
 
 ## Overview
